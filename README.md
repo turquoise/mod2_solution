@@ -1,2 +1,2 @@
-# mod_2_solution
+# mod2_solution
 angularjs coursera
